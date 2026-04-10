@@ -1,0 +1,163 @@
+
+[
+    {
+      "id": "SE001",
+      "drugName": "Zephrinex",
+      "sideEffect": "nausea",
+      "frequencyRating": 8,
+      "reportedBy": 1842,
+      "category": "gastrointestinal"
+    },
+    {
+      "id": "SE002",
+      "drugName": "Cardiovant",
+      "sideEffect": "elevated heart rate",
+      "frequencyRating": 6,
+      "reportedBy": 412,
+      "category": "cardiovascular"
+    },
+    {
+      "id": "SE003",
+      "drugName": "Neurocalm SR",
+      "sideEffect": "drowsiness",
+      "frequencyRating": 9,
+      "reportedBy": 3201,
+      "category": "neurological"
+    },
+    {
+      "id": "SE004",
+      "drugName": "Flexarilone",
+      "sideEffect": "joint stiffness",
+      "frequencyRating": 4,
+      "reportedBy": 89,
+      "category": "musculoskeletal"
+    },
+    {
+      "id": "SE005",
+      "drugName": "Dermasoothe",
+      "sideEffect": "skin rash",
+      "frequencyRating": 7,
+      "reportedBy": 556,
+      "category": "dermatological"
+    },
+    {
+      "id": "SE006",
+      "drugName": "Pulmoxair",
+      "sideEffect": "dry cough",
+      "frequencyRating": 5,
+      "reportedBy": 203,
+      "category": "respiratory"
+    },
+    {
+      "id": "SE007",
+      "drugName": "Metagliprin",
+      "sideEffect": "hypoglycemia",
+      "frequencyRating": 3,
+      "reportedBy": 41,
+      "category": "metabolic"
+    },
+    {
+      "id": "SE008",
+      "drugName": "Oculensin",
+      "sideEffect": "blurred vision",
+      "frequencyRating": 6,
+      "reportedBy": 398,
+      "category": "ophthalmological"
+    },
+    {
+      "id": "SE009",
+      "drugName": "Immunexa",
+      "sideEffect": "fatigue",
+      "frequencyRating": 8,
+      "reportedBy": 1675,
+      "category": "general"
+    },
+    {
+      "id": "SE010",
+      "drugName": "Renovistat",
+      "sideEffect": "increased thirst",
+      "frequencyRating": 2,
+      "reportedBy": 17,
+      "category": "renal"
+    },
+    {
+      "id": "SE011",
+      "drugName": "Somnirest",
+      "sideEffect": "vivid dreams",
+      "frequencyRating": 5,
+      "reportedBy": 178,
+      "category": "neurological"
+    },
+    {
+      "id": "SE012",
+      "drugName": "Thyrobalance",
+      "sideEffect": "anxiety",
+      "frequencyRating": 7,
+      "reportedBy": 621,
+      "category": "psychiatric"
+    },
+    {
+      "id": "SE013",
+      "drugName": "Gastroguard XR",
+      "sideEffect": "heartburn",
+      "frequencyRating": 9,
+      "reportedBy": 2890,
+      "category": "gastrointestinal"
+    },
+    {
+      "id": "SE014",
+      "drugName": "Migranex Duo",
+      "sideEffect": "headache",
+      "frequencyRating": 10,
+      "reportedBy": 4520,
+      "category": "neurological"
+    },
+    {
+      "id": "SE015",
+      "drugName": "Migranex Duo",
+      "sideEffect": "photosensitivity",
+      "frequencyRating": 4,
+      "reportedBy": 95,
+      "category": "neurological"
+    },
+    {
+      "id": "SE016",
+      "drugName": "Lipidown",
+      "sideEffect": "muscle cramps",
+      "frequencyRating": 6,
+      "reportedBy": 445,
+      "category": "musculoskeletal"
+    },
+    {
+      "id": "SE017",
+      "drugName": "Allergexin",
+      "sideEffect": "nasal congestion",
+      "frequencyRating": 5,
+      "reportedBy": 156,
+      "category": "respiratory"
+    },
+    {
+      "id": "SE018",
+      "drugName": "Hemostatol",
+      "sideEffect": "easy bruising",
+      "frequencyRating": 1,
+      "reportedBy": 6,
+      "category": "hematological"
+    },
+    {
+      "id": "SE019",
+      "drugName": "Audionex",
+      "sideEffect": "tinnitus",
+      "frequencyRating": 3,
+      "reportedBy": 28,
+      "category": "otological"
+    },
+    {
+      "id": "SE020",
+      "drugName": "Zephrinex",
+      "sideEffect": "diarrhea",
+      "frequencyRating": 8,
+      "reportedBy": 1510,
+      "category": "gastrointestinal"
+    }
+  ]
