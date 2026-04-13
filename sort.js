@@ -16,7 +16,7 @@
 
  *
  * FILES TO KNOW FOR DOCUMENTATION
- * input file sẽ là sideEffects.json và output file sẽ là sortedSideEffects.json. Cách chạy program sẽ là đầu tiên bạn sẽ ở trên directory chính rồi gõ lệnh node sort.js để chạy program
+ * input file is sideEffects.json and output file is sortedSideEffects.json. The way to run the program is first you will be on the main directory then type the command node sort.js to run the program
  * For the sideEffects.json file, you can change the data to test the program with different data, what I put in there are 20 mock data.
  * For each data we have id, drugName, sideEffect, frequencyRating, reportedBy, and category (i tried to make the data as realistic as possible)
  
