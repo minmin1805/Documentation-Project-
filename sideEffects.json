@@ -9,6 +9,14 @@
       "category": "gastrointestinal"
     },
     {
+      "id": "SE014",
+      "drugName": "Neurocalm SR",
+      "sideEffect": "headache",
+      "frequencyRating": 20,
+      "reportedBy": 232,
+      "category": "neurological"
+    },
+    {
       "id": "SE002",
       "drugName": "Cardiovant",
       "sideEffect": "elevated heart rate",
